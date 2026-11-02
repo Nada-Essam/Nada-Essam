@@ -50,9 +50,5 @@ I enjoy learning new technologies, improving my problem-solving skills, and turn
 - Built with React.js and Bootstrap.
 - Showcases my projects and front-end development skills.
 ### 📫 Connect With Me
-GitHub: https://github.com/Nada-Essam
-
-Portfolio: [My Portfolio](https://nada-essam.github.io/My-Portfolio-/)
-
 - **GitHub:** [Nada-Essam](https://github.com/Nada-Essam)
 - **Portfolio:** [My Portfolio](https://nada-essam.github.io/My-Portfolio/)
